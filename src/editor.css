@@ -1,0 +1,5 @@
+/* Editor-only tweaks: dashed outline so the block is visible while editing. */
+.wp-block-gbs-call-to-action {
+    outline: 1px dashed #c3c4c7;
+    outline-offset: -1px;
+}
