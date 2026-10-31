@@ -1,0 +1,1 @@
+{"description":"Gutenberg block starter: Call to Action block","devDependencies":{"@wordpress/scripts":"^30.0.0"},"name":"gbs-call-to-action","private":true,"scripts":{"build":"wp-scripts build","start":"wp-scripts start"},"version":"1.0.0"}
