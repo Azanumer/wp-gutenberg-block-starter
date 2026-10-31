@@ -1,0 +1,24 @@
+/* Front-end + editor styles for the Call to Action block. */
+.wp-block-gbs-call-to-action {
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.wp-block-gbs-call-to-action h3 {
+    margin-top: 0;
+}
+
+.gbs-cta-button {
+    display: inline-block;
+    padding: 0.6em 1.4em;
+    border-radius: 999px;
+    background: #2271b1;
+    color: #fff;
+    text-decoration: none;
+}
+
+.gbs-cta-button:hover {
+    background: #135e96;
+    color: #fff;
+}
